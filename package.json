@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AndrewSLentz/superhero-server/issues"
   },
-  "homepage": "https://github.com/AndrewSLentz/superhero-server#readme"
+  "homepage": "https://github.com/AndrewSLentz/superhero-server#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
 }
